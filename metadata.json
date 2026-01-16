@@ -1,0 +1,5 @@
+{
+  "name": "AsistenciaPRO",
+  "description": "Control eficiente de asistencia, retardos y faltas del personal con exportación a Excel.",
+  "requestFramePermissions": []
+}
